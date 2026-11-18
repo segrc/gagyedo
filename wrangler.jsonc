@@ -1,0 +1,8 @@
+// Cloudflare Workers Builds 설정: GitHub에 올리면 site/ 폴더가 gagyedo Worker로 배포됨
+{
+  "name": "gagyedo",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./site"
+  }
+}

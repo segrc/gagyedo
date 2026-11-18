@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gagyedo.j-segrc.workers.dev/sitemap.xml
